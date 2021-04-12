@@ -10,7 +10,7 @@
 ; For instance if you change to `dotnet_sort_system_directives_first = true:warning` (adding `:warning`)
 ; then the rule will be silently ignored.
 
-; This is the default for the codeline.
+; This is the default for the codeline.This is update
 root = true
 
 [*]
